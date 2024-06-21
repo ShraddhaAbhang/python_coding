@@ -2,7 +2,7 @@
 
 import cv2
 
-img = cv2.imread("dog_img.jpg")
+img = cv2.imread("image_processing_input\dog_img.jpg")
 # img = cv2.imread("db_details_sql.jpg",0)
 
 cv2.imshow("image", img)
